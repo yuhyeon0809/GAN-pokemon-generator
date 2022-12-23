@@ -1,5 +1,5 @@
 # GAN-pokemon-generator
-### Pokemon generation project using ```DCGAN```  
+### 🖐️Pokemon generation project using ```DCGAN```  
 
 
 
